@@ -1,17 +1,17 @@
 {
   "name" : "kbide-plugin-ir-receiver",
-  "title": "ir-receiver",
+  "title": "KY-022 INFRARED RECEIVER MODULE",
   "keywords": "ir-receiver, esp32, esp8266, arduino",
   "description": "ir-receiver plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-ir-receiver/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-ir-receiver/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }

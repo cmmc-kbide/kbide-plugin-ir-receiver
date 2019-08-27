@@ -1,5 +1,4 @@
-module.exports = function(Blockly) {
-  Blockly.Blocks["ky_022_ir_receiver_block"] = {
+Blockly.Blocks["ky_022_ir_receiver_block"] = {
     init: function() {
       this.appendDummyInput().appendField("KY-022 IR RECEIVER");
       this.appendDummyInput()
@@ -19,4 +18,3 @@ module.exports = function(Blockly) {
       this.setHelpUrl("");
     }
   };
-};
